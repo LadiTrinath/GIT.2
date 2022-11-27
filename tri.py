@@ -1,5 +1,4 @@
 print("Hello")
 print("Tri")
 print("farw")
-print("kol")
-print("sant")
+print("sur")
